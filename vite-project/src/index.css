@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.container {
+  @apply mx-auto px-4 max-w-7xl;
+}
+
+.btn {
+  @apply px-6 py-2 rounded-md font-medium transition-all duration-300;
+}
+
+.btn-primary {
+  @apply bg-primary text-white hover:bg-primary/90;
+}
+
+.section-title {
+  @apply text-3xl font-bold text-center mb-8;
+}
