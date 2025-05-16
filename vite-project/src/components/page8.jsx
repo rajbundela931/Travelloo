@@ -5,10 +5,10 @@ const Page8 = () => {
 
   const partners = [
     { name: "Airbnb", image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg" },
-    { name: "Gozayaan", image: "https://gozayaan.sgp1.digitaloceanspaces.com/gozayaan_assets/images/gozayaan_logo.svg" },
     { name: "Airbnb", image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg" },
-    { name: "Flight Expert", image: "https://flightexpert.com/assets/fe-logo-blue.png" },
-    { name: "Booking.com", image: "https://cf.bstatic.com/static/img/bcom_logo_blue_bg/4c90d431376c8c32573a9a2e9482efe4c2894d18.svg" },
+    { name: "Airbnb", image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg" },
+    { name: "Airbnb", image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg" },
+    { name: "Airbnb", image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg" },
   ];
 
   return (

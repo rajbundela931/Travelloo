@@ -152,11 +152,11 @@ const TravelloPage = () => {
               <div className="relative w-full max-w-md">
                 <input
                   type="text"
-                  placeholder="Destination_Attraction"
+                  placeholder="Destination,Attraction"
                   className="w-full pl-4 pr-20 py-2 bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-teal-500"
                 />
                 <div className="absolute right-3 top-1/2 transform -translate-y-1/2 text-xs text-gray-500 dark:text-gray-400">
-                  Ctrl + K
+
                 </div>
               </div>
             </div>

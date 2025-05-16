@@ -66,7 +66,7 @@ const Page7 = () => {
             <div className="mt-6">
               <img 
                 src="https://media.istockphoto.com/id/1192229302/photo/bangalore-skyline-city.webp?a=1&b=1&s=612x612&w=0&k=20&c=GBKeq-6FpB5IkuJPEA2azM3CCN3KvWdkndWpZq_Pq2s="
-                alt="Travel Van"
+                alt="Travel flight"
                 className="w-full h-[300px] object-cover rounded-lg"
               />
             </div>

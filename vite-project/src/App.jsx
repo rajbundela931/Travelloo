@@ -9,22 +9,22 @@ import Page7 from './components/page7';
 import Page8 from './components/page8';
 import Page9 from './components/page9';
 import Page10 from './components/page10';
- import Page11 from './components/page11'; 
+import Page11 from './components/page11';
 
 const App = () => {
   return (
     <div>
       <Page1 />
       <Page2 />
-       <Page3 /> 
+      <Page3 />
       <Page4 />
       <Page5 />
       <Page6 />
       <Page7 />
       <Page8 />
-      <Page9 /> 
-      <Page10 /> 
-     <Page11 /> 
+      <Page9 />
+      <Page10 />
+      <Page11 />
     </div>
   );
 };
